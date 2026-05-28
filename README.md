@@ -59,3 +59,11 @@ MVP Complete — continuing improvements to prompt reliability, categorization a
 ## Author
 
 Leonard Klein
+
+## Workflow
+
+### Make Scenario Workflow
+
+This workflow automates inbound email triage using AI-powered categorization, structured outputs, and response recommendations.
+
+![Workflow](workflow.png)
